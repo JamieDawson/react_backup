@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://JamieDawson.github.io/react_backup",
+  "homepage": "https://JamieDawson.github.io/Monsters_Rolodex",
   "dependencies": {
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
